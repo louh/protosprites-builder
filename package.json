@@ -1,0 +1,19 @@
+{
+  "name": "protosprites-builder",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lou Huang",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "commander": "^7.2.0",
+    "glob": "^7.1.6",
+    "mkdirp": "^1.0.4",
+    "winston": "^3.3.3"
+  }
+}
